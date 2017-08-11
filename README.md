@@ -2,7 +2,7 @@
 #### Disclosed to Apple, Inc. on 04/07/2016 and approved for release on github 11/2016
 
 ##Contents:
-1. [Forged Fingerprint Lab Instructions](https://github.com/ivydigitalstorm/BypassTouchID/tree/master/Bypass_TouchID_Lab)
+1. [Forged Fingerprint Lab Instructions(beta)](https://github.com/ivydigitalstorm/BypassTouchID/tree/master/Bypass_TouchID_Lab)
 1. Forged Fingerprint Slidedeck - Methodology Only
 1. Forged Fingerprint Slidedeck - Methodolody & iOS Software and Hardware Security Implementations (PSU MacAdmins Deck)
 
