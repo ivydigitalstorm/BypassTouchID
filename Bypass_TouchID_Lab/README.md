@@ -1,6 +1,6 @@
 ##### lab materials released under CC BY-NC 4.0 licensing
 # Bypass TouchID w/ a Forged Fingerprint
-### this lab is original content, authored by [ivydigitalstorm](https://keybase.io/ivydigitalstorm)
+### this lab is original content, authored by [ivydigitalstorm](https://keybase.io/ivydigitalstorm) for The InfoSec Society
 
 ## overview
 
