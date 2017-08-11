@@ -31,6 +31,6 @@ Using a high resolution scanner, collect fingerprints from targets described. Sa
 ### Procedure:
 1.
 1.
-1.
+1. 
 
 # Hey! Looking for the source? [Lab v1.0](https://github.com/ivydigitalstorm/BypassTouchID/blob/master/Bypass_TouchID_Lab/Bypass-Touch-ID-Lab-v1.0%20_Information%20Security%20Society-LLC.pdf) 
