@@ -3,7 +3,7 @@
 ## overview
 When Chaos Computer Club disclosed their methods in 2013 I found they did not work according to the documentation on the website.  This kinda drove me nuts, so I kept working at it, reverse engineering the few tidbits that starbug did toss online, and doing some deep technological soul search until I found a good methodology -- I created my own by piecing together various pieces of tradecraft, and revising processes throughout most of 2014.  
 
-Trials to proof efficacy of methods were held at PSU Mac Admins Conference in 2015 for a small academic audience - 100 participants! The results sampled demonstrate a significant quality to the process. This was a particularly difficult piece of research to release, demonstrated by the timeline, where research efforts were largely undertaken in 2014, with methodology proposed for academic disclosure in January 2015.
+Trials to proof efficacy of methods were held at PSU Mac Admins Conference in 2015 for a small academic audience - 100 participants! The results sampled demonstrate a significant quality to the process. This was a particularly difficult piece of research to release, demonstrated by the timeline, where research efforts were largely undertaken in 2014, with methodology proposed for academic disclosure in January 2015. What year is it now? In sum, I'm grateful to be able to offer this knowledge freely today. 
 
 Interestingly of note, the latent print in this study is scanned at 4800 dpi, printed at 300 dpi, where fingerprints in repositories such as IAFIS and SWIFT (for example) are imported at 500 dpi, and the TouchID sensor is 600dpi.
 
