@@ -1,8 +1,9 @@
 # Bypass TouchID w/ a Forged Fingerprint
 #### Find enclosed the lecture and lab that documents the tools and techniques I used to create a hi-resolution skin-like forgery capable of bypassing iPhone 7,6s,6,5s TouchID fingerprint biometric sensors, with a source latent fingerprint lifted from the surface of iPhone itself. 
 ## overview
-When Chaos Computer Club disclosed their methods in 2013 I found they did not work according to the documentation on the website.  This kinda drove me nuts, so I kept working at it, reverse engineering the few tidbits that starbug did toss online, and doing some deep technological soul search until I found a good methodology -- I created my own by piecing together various pieces of tradecraft, and revising processes.  
-Trials to proof efficacy of methods were held at PSU Mac Admins Conference in 2015 for a small academic audience. The results sampled demonstrate a significant quality to the process. This was a particularly difficult piece of research to release, demonstrated by the timeline, where research efforts were largely undertaken in 2014, with methodology proposed for academic disclosure in January 2015.
+When Chaos Computer Club disclosed their methods in 2013 I found they did not work according to the documentation on the website.  This kinda drove me nuts, so I kept working at it, reverse engineering the few tidbits that starbug did toss online, and doing some deep technological soul search until I found a good methodology -- I created my own by piecing together various pieces of tradecraft, and revising processes throughout most of 2014.  
+
+Trials to proof efficacy of methods were held at PSU Mac Admins Conference in 2015 for a small academic audience - 100 participants! The results sampled demonstrate a significant quality to the process. This was a particularly difficult piece of research to release, demonstrated by the timeline, where research efforts were largely undertaken in 2014, with methodology proposed for academic disclosure in January 2015.
 
 Interestingly of note, the latent print in this study is scanned at 4800 dpi, printed at 300 dpi, where fingerprints in repositories such as IAFIS and SWIFT (for example) are imported at 500 dpi, and the TouchID sensor is 600dpi.
 
