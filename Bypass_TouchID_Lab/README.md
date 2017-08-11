@@ -1,6 +1,6 @@
 ##### lab materials released under CC BY-NC 4.0 licensing
 # Bypass TouchID w/ a Forged Fingerprint
-### this lab is led by Team [Hacker Women](https://github.com/hackerwomen) and created by [ivydigitalstorm](https://keybase.io/ivydigitalstorm)
+### this lab is original content, authored by [ivydigitalstorm](https://keybase.io/ivydigitalstorm)
 
 ## overview
 
