@@ -3,7 +3,7 @@
 
 ##Contents:
 1. [Forged Fingerprint Lab Instructions(beta)](https://github.com/ivydigitalstorm/BypassTouchID/tree/master/Bypass_TouchID_Lab)
-1. Forged Fingerprint Slidedeck - Methodology Only
+1. [Forged Fingerprint Slidedeck - Methodology Only](https://github.com/ivydigitalstorm/BypassTouchID/blob/master/_WS02-01-Bypass_Touch_ID_With_A_Forged_Fingerprint_-_Ivy_Thomas.pdf)
 1. Forged Fingerprint Slidedeck - Methodolody & iOS Software and Hardware Security Implementations (PSU MacAdmins Deck)
 
 ::note bene::
