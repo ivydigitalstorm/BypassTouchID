@@ -1,5 +1,5 @@
 # Bypass TouchID w/ a Forged Fingerprint
-#### Disclosed to Apple, Inc. on 04/07/2016 and approved for release on github 11/2016
+#### Disclosed to Apple, Inc. 04/2016 and vetted for release on github 11/2016
 
 ##Contents:
 1. [Forged Fingerprint Lab Instructions(beta)](https://github.com/ivydigitalstorm/BypassTouchID/tree/master/Bypass_TouchID_Lab)
