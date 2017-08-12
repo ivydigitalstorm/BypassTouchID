@@ -6,6 +6,11 @@ When Chaos Computer Club disclosed their methods in 2013 I found they did not wo
 Trials to proof efficacy of methods were held at PSU Mac Admins Conference in 2015 for a small academic audience - 100 participants! The results sampled demonstrate a significant quality to the process. This was a particularly difficult piece of research to release, demonstrated by the timeline, where research efforts were largely undertaken in 2014, with methodology proposed for academic disclosure in January 2015. What year is it now? In sum, I'm grateful to be able to offer this knowledge freely today. 
 
 ## Security Recommendation
+
+#### The Future
+Fingerprint authentication was broken in the 1970's, and since then not a thing is changed.  Future biometric authentication technologies are actively under refinement, and open source technologies such as Apple ResearchKit and HealthKit applications for behavioral analysis by way of device onboard sensors will enable implementation of the next biometric authentication wave: Active Authentication. Active authentication is where your devices know who you are through active measurements of your behavior.  
+
+#### Today
 Consumer TouchID users are recommended to keep calm and carry on; the combination of iOS Security Policies including TouchID is reasonable to provide security.  It is recommended to government enterprise TouchID users not to use fingerprint biometric authentication checkpoints at any perimeters, ever.  Security paranoid TouchID users who are travelling OCONUS may want to power off their device when crossing borders. ;)
 
 Interestingly of note, the latent print in this study is scanned at 4800 dpi, printed at 300 dpi, where fingerprints in repositories such as IAFIS and SWIFT (for example) are imported at 500 dpi, and the TouchID sensor is 600dpi.
