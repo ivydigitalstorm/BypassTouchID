@@ -16,7 +16,7 @@ Consumer TouchID users are recommended to keep calm and carry on; the combinatio
 Interestingly of note, the latent print in this study is scanned at 4800 dpi, printed at 300 dpi, where fingerprints in repositories such as IAFIS and SWIFT (for example) are imported at 500 dpi, and the TouchID sensor is 600dpi.
 
 ## Some fun
-Researcher @ivydigitalstorm and tech quovadimus additionally videodocumented an evening lab session which resulted in generation of 75 high quality fingerprint templates developed and processed in one evening.  Now think of the mischief that could cause!
+Researcher @ivydigitalstorm and assisting analyst @quovadimus additionally videodocumented an evening lab session which resulted in generation of 75 high quality fingerprint templates developed and processed in one evening.  Now think of the mischief that could cause!
 
 ## For the hacker community
 This is a super fun lab to run and share, and I'd like to get it out there - maybe for DEF CON or another conference through the Hacker Women effort. Want to assist? DM [@HackerWomen](https://twitter.com/hackerwomen) on Twitter. 
