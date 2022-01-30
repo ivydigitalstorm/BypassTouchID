@@ -8,6 +8,8 @@ Trials to proof efficacy of methods were held at PSU Mac Admins Conference in 20
 ## Security Recommendation
 
 #### The Future
+What points can be canned from our body that can be used for biometric?
+
 Fingerprint authentication was broken in the 1970's, and since then not a thing is changed.  Future biometric authentication technologies are actively under refinement, and open source technologies such as Apple ResearchKit and HealthKit applications for behavioral analysis by way of device onboard sensors will enable implementation of the next biometric authentication wave: Active Authentication. Active authentication is where your devices know who you are through active measurements of your behavior.  
 
 #### Today
